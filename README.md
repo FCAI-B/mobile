@@ -1,7 +1,7 @@
 # Zoom
 - zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09 
 - **Insha Allah we will start on Saturday @ 11:30 pm** 
-- (If it is not suitable for you, let one of you enter at 11:30 and inform me about a suitable time)
+
 
 ## Lectures
 - **Lecture 1** Files "history" and "compare"
