@@ -1,6 +1,6 @@
 # Zoom
 - zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09 
-- **Insha Allah we will start on Saturday @ 11:30 am** 
+- **Insha Allah, we will start on Saturday 23 April @ 13:30 (1:30 pm)** 
 
 
 ## Lectures
