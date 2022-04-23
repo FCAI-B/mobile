@@ -5,14 +5,14 @@
 
 ## Lectures
 - **Lecture 1** 
-  - File "history"
-  - File "compare"
+  - File "history" https://raw.githubusercontent.com/FCAI-B/mobile/main/history.pdf
+  - File "compare" https://raw.githubusercontent.com/FCAI-B/mobile/main/compare.pdf
 - **Lecture 2,3** 
   - https://docs.flutter.dev/get-started/codelab
 - **Lecture 4,5** 
   - https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
 - **Lecture 6** 
-  - File "firebase" **(updated)**
+  - File "firebase" https://raw.githubusercontent.com/FCAI-B/mobile/main/firebase.pdf **(updated)**
 - **Lecture 7,8** 
   - https://codelabs.flutter-io.cn/codelabs/flutter-firebase/index.html
   - https://firebase.flutter.dev/docs/firestore/usage/ 
