@@ -4,10 +4,19 @@
 
 
 ## Lectures
-- **Lecture 1** Files "history" and "compare"
-- **Lecture 2,3** https://docs.flutter.dev/get-started/codelab
-- **Lecture 4,5** https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
-- **Lecture 6** File "firebase"
+- **Lecture 1** 
+  - File "history"
+  - File "compare"
+- **Lecture 2,3** 
+  - https://docs.flutter.dev/get-started/codelab
+- **Lecture 4,5** 
+  - https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
+- **Lecture 6** 
+  - File "firebase" **(updated)**
+- **Lecture 7,8** 
+  - https://codelabs.flutter-io.cn/codelabs/flutter-firebase/index.html
+  - https://firebase.flutter.dev/docs/firestore/usage/ 
+  - https://firebase.flutter.dev/docs/overview/
 
 https://user-images.githubusercontent.com/92329466/155750150-c1fa891c-75ee-4fd4-8e6a-7338d848e1fa.mp4
 
