@@ -1,7 +1,8 @@
 # Zoom
-- zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09 
-- **Insha Allah, we will start on Saturday 23 April @ 13:30 (1:30 pm)** 
-
+```diff
+- **Insha Allah, our next  lecture will be online on Saturday 07 May @ 13:30 (1:30 pm)** 
++ zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09 
+```
 
 ## Lectures
 - **Lecture 1** 
