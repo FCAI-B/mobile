@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
                     title: Text(doc.get('name')),
                     subtitle: Text(doc.get('votes').toString()),
                     onTap: () {
-                      //TODO update the document by increasing votes
+                      //TODO update the document to increase the votes
                     },
                   );
                 }).toList(),
