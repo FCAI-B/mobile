@@ -29,8 +29,7 @@ class MyApp extends StatelessWidget {
             if (!snapshot.hasData) {
               return const Text('Waiting');
             } else {
-              return ListView(
-                shrinkWrap: true,
+              return ListView(                
                 children: snapshot.data.docs.map<Widget>((DocumentSnapshot doc) {
                   return ListTile(
                     title: Text(doc.get('name')),
