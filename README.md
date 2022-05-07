@@ -1,8 +1,10 @@
 # Zoom
 ```diff
-- **Insha Allah, our next lecture will be online on Saturday 07 May @ 13:30 (1:30 pm) [normal time before Ramadan]** 
+
 + zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09 
 ```
+
+<!-- - **Insha Allah, our next lecture will be online on Saturday 07 May @ 13:30 (1:30 pm) [normal time before Ramadan]**  -->
 
 ## Lectures
 - **Lecture 1** 
