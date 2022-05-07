@@ -20,6 +20,6 @@
   - https://codelabs.flutter-io.cn/codelabs/flutter-firebase/index.html
   - https://firebase.flutter.dev/docs/firestore/usage/ 
   - https://firebase.flutter.dev/docs/overview/
-  - https://raw.githubusercontent.com/FCAI-B/mobile/blob/main/main.dart **(updated 7 May)**
+  - https://raw.githubusercontent.com/FCAI-B/mobile/main/main.dart **(updated 7 May)**
 
 https://user-images.githubusercontent.com/92329466/155750150-c1fa891c-75ee-4fd4-8e6a-7338d848e1fa.mp4
